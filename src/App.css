@@ -1,0 +1,28 @@
+.App{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+ 
+}
+.tasks{
+  background-image: linear-gradient(#222831,#393E46);
+}
+.add-task{
+  border-radius: 20px;
+}
+.heading{
+  font-size: 30px;
+}
+.todos{
+  background-color: #EEEEEE;
+  align-items: center;
+  /* display: flex;
+  justify-content: center; */
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 450px;
+  border-radius: 10px;
+}
+.todo-buttons{
+  border-radius: 10px;
+}
